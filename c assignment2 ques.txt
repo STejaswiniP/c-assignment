@@ -1,0 +1,6 @@
+1. Write a c program to calculate NCR value.
+2. Write a c function to transpose a matrix.
+3. Write a recursive function to generate Fibonacci series.
+4. Write a recursive function to find the LCM of two numbers.
+5. Write a recursive function to find the GCD of two numbers.
+6. WQrite a recursive function to check the number is palindrome or not.
